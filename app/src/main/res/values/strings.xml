@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cats</string>
+    <string name="to_favourites">To Favourites</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="save_to_gallery">Save to gallery</string>
+    <string name="great_you_can_save_your_image">Cool! Now You can save any Cat in Your gallery</string>
+    <string name="permission_declined">Oops! You need to grant this permissions if you want to save Cats</string>
+    <string name="cat_was_saved">Great! Cat was saved</string>
+    <string name="default_error_message">Oops! Something went wrong</string>
+</resources>

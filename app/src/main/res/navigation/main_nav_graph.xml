@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/cats_fragment">
+    <action
+        android:id="@+id/to_favourite_cats_fragment"
+        app:destination="@id/favourite_cats_fragment" />
+    <fragment
+        android:id="@+id/favourite_cats_fragment"
+        android:name="com.vb.cats.favouriteCats.view.FavouriteCatsFragment" />
+
+    <action
+        android:id="@+id/to_cats_fragment"
+        app:destination="@id/cats_fragment" />
+    <fragment
+        android:id="@+id/cats_fragment"
+        android:name="com.vb.cats.cats.view.CatsFragment"
+        android:label="NumberFragment" />
+</navigation>
