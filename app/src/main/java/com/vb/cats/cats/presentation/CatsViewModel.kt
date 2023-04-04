@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModel
 import com.vb.cats.database.entity.Cat
 import com.vb.cats.cats.model.CatsModel
 import com.vb.cats.cats.model.transformToCat
-import com.vb.cats.favouriteCats.model.FavouriteCatsModel
+import com.vb.cats.cats.model.FavouriteCatsModel
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.schedulers.Schedulers

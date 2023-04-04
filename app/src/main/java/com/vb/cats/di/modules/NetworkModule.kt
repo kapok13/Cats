@@ -1,4 +1,4 @@
-package com.vb.cats.modules
+package com.vb.cats.di.modules
 
 import com.vb.cats.network.service.CatsApiService
 import org.koin.core.scope.get

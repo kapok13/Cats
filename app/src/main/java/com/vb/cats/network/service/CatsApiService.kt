@@ -1,6 +1,6 @@
 package com.vb.cats.network.service
 
-import com.vb.cats.modules.API_URL
+import com.vb.cats.di.modules.API_URL
 import com.vb.cats.cats.model.CatResponse
 import io.reactivex.rxjava3.core.Observable
 import retrofit2.http.GET

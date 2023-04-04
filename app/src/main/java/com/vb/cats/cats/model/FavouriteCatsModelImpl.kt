@@ -1,4 +1,4 @@
-package com.vb.cats.favouriteCats.model
+package com.vb.cats.cats.model
 
 import com.vb.cats.database.database.CatsDatabase
 import com.vb.cats.database.entity.Cat

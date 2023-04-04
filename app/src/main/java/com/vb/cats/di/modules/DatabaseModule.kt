@@ -1,4 +1,4 @@
-package com.vb.cats.modules
+package com.vb.cats.di.modules
 
 import androidx.room.Room
 import com.vb.cats.database.database.CatsDatabase

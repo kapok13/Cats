@@ -8,7 +8,7 @@
         app:destination="@id/favourite_cats_fragment" />
     <fragment
         android:id="@+id/favourite_cats_fragment"
-        android:name="com.vb.cats.favouriteCats.view.FavouriteCatsFragment" />
+        android:name="com.vb.cats.cats.view.FavouriteCatsFragment" />
 
     <action
         android:id="@+id/to_cats_fragment"

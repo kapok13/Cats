@@ -1,9 +1,9 @@
-package com.vb.cats.favouriteCats.presentation
+package com.vb.cats.cats.presentation
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.vb.cats.database.entity.Cat
-import com.vb.cats.favouriteCats.model.FavouriteCatsModel
+import com.vb.cats.cats.model.FavouriteCatsModel
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
 import io.reactivex.rxjava3.schedulers.Schedulers
 

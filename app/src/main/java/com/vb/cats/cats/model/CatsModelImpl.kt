@@ -2,7 +2,7 @@ package com.vb.cats.cats.model
 
 import android.util.Log
 import com.jakewharton.rxrelay3.BehaviorRelay
-import com.vb.cats.modules.API_KEY
+import com.vb.cats.di.modules.API_KEY
 import com.vb.cats.network.service.CatsApiService
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.schedulers.Schedulers

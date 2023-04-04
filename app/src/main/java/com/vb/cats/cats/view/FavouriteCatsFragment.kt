@@ -1,4 +1,4 @@
-package com.vb.cats.favouriteCats.view
+package com.vb.cats.cats.view
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.snackbar.Snackbar
 import com.vb.cats.R
-import com.vb.cats.favouriteCats.presentation.FavouriteCatsViewModel
+import com.vb.cats.cats.presentation.FavouriteCatsViewModel
 import com.vb.cats.cats.widget.CatAdapter
 import com.vb.cats.databinding.FavouriteCatsFragmentBinding
 import com.vb.cats.saveImageToStorage
